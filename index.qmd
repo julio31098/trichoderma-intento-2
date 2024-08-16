@@ -1,0 +1,14 @@
+---
+title: "Estudio de Trichoderma"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Bienvenido a mi blog donde se muestran las caracterisricas principales del trichoderma, asi como su efecto como biocontroldadores y la importancia del cultivo de maíz en nuestro pais.

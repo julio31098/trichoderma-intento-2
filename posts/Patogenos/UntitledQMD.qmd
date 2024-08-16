@@ -1,0 +1,89 @@
+---
+title: "Patogenos"
+author: "Julio Aguilar"
+date: "2024-07-07"
+categories: [Patogenos]
+image: patogenoportada.jpg
+---
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# Introducción
+
+El maíz es susceptible a una variedad de patógenos que pueden afectar su crecimiento y rendimiento [@Gonzalez2020]. A continuación se describen algunos de los patógenos más comunes y dañinos para este cultivo.
+
+## Fusarium spp.
+
+**Enfermedades**: Pudrición de raíz, tallo y mazorca.
+
+**Impacto**: Provoca la marchitez de las plantas, decoloración y formación de micotoxinas en los granos, afectando tanto la producción como la calidad del maíz [@Smith2019].
+
+![imagen vista desde microscopio](f1.jpg)
+
+## Rhizoctonia solani
+
+**Enfermedades**: Pudrición de raíz y tallo.
+
+**Impacto**: Afecta principalmente las plántulas, causando un crecimiento desigual, debilidad en las plantas y una disminución en el rendimiento [@Lopez2018].
+
+![raiz con daños](r1.jpg)
+
+## Pythium spp.
+
+**Enfermedades**: Pudrición de semillas y raíces.
+
+**Impacto**: Destructivo en condiciones de alta humedad, afectando la germinación y el desarrollo temprano de las plantas [@Rodriguez2021].
+
+![imagen vista desde microscopio](p1.jpg)
+
+## Sclerotinia sclerotiorum
+
+**Enfermedades**: Pudrición blanca.
+
+**Impacto**: Causa un moho blanco en tallos y mazorcas, debilitando la planta y reduciendo signinicativamente el rendimiento [@Garcia2017].
+
+![raices cubiertas](s1.png)
+
+## Exserohilum turcicum
+
+**Enfermedades**: Mancha foliar o tizón foliar.
+
+**Impacto**: Produce lesiones en las hojas, reduciendo la fotosíntesis y debilitando la planta, lo que puede llevar a una reducción en el rendimiento [@Martinez2020].
+
+![imagen con zoom](e1.jfif){width="417"}
+
+## Ustilago maydis
+
+**Enfermedades**: Huitlacoche (carbón del maíz).
+
+**Impacto**: Aunque se considera una delicia gastronómica en algunos países, en la agricultura comercial deforma las mazorcas y reduce el rendimiento del cultivo [@Fernandez2019].
+
+![daños en mazorca](u1.jpg)
+
+## Colletotrichum graminicola
+
+**Enfermedades**: Antracnosis.
+
+**Impacto**: Causa lesiones negras en hojas y tallos, que pueden llevar al debilitamiento y la muerte de las plantas jóvenes [@Perez2022].
+
+![imagen vista con zoom](c1.jfif){width="400"}
+
+## Puccinia sorghi
+
+**Enfermedades**: Roya común del maíz.
+
+**Impacto**: Produce pústulas de color marrón en las hojas, afectando la fotosíntesis y reduciendo el rendimiento, especialmente en climas húmedos [@Sanchez2018]. ![cultivo de maiz](p1.jpg){width="486"}
+
+## Maize Dwarf Mosaic Virus (MDMV)
+
+**Enfermedades**: Virus del mosaico enano del maíz.
+
+**Impacto**: Causa un moteado clorótico en las hojas, retraso en el crecimiento y enanismo, lo que puede reducir significativamente la producción
+
+![daños en las hojas](m1.jfif){width="351"}
+
+## Conclusión
+
+El manejo efectivo de estos patógenos es crucial para garantizar la productividad y la calidad del cultivo de maíz [@Hernandez2021]. La implementación de estrategias de control, como el uso de agentes biológicos como *Trichoderma*, es esencial para mitigar sus efectos negativos [@Vega2022].

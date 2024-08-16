@@ -1,0 +1,120 @@
+---
+title: "Estudio de Trichoderma"
+author: "Julio Aguilar"
+date: "2024-08-16"
+output: ioslides_presentation
+---
+
+## Introducción
+
+El maíz es un cultivo de importancia mundial, pero es vulnerable a varios patógenos que afectan su rendimiento. Esta presentación cubre el papel de **Trichoderma** como agente de control biológico, los patógenos clave del maíz y las prácticas de cultivo esenciales.
+
+## Trichoderma spp.
+
+### Generalidades
+
+-   **Trichoderma** es un género de hongos conocido por su capacidad como biocontrolador.
+-   Se utiliza ampliamente en la agricultura para proteger cultivos contra patógenos.
+
+### Especies Relevantes
+
+-   *Trichoderma atroviride*: Conocido por su eficacia contra una amplia gama de patógenos del suelo.
+-   *Trichoderma asperellum*: Especialmente efectivo en la protección de raíces.
+-   *Trichoderma viride*: Utilizado por su actividad antifúngica general.
+
+## Mecanismos de Acción de Trichoderma
+
+### Competencia por Nutrientes
+
+-   **Trichoderma** compite eficazmente por nutrientes y espacio, reduciendo las posibilidades de colonización por patógenos.
+
+### Producción de Enzimas
+
+-   Produce enzimas hidrolíticas que descomponen las paredes celulares de los patógenos, inhibiendo su crecimiento.
+
+### Inducción de Defensas en la Planta
+
+-   Estimula la resistencia sistémica en las plantas, activando sus defensas naturales.
+
+## Patógenos del Maíz
+
+### Introducción
+
+El maíz es susceptible a diversos patógenos que pueden reducir significativamente su producción. A continuación, se presentan algunos de los más comunes y su impacto.
+
+## Fusarium spp.
+
+### Enfermedades
+
+-   Causa la pudrición de raíz, tallo y mazorca.
+
+### Impacto
+
+-   **Marchitez de plantas**: Las plantas afectadas muestran marchitez y decoloración.
+-   **Micotoxinas**: Se producen micotoxinas que contaminan los granos, afectando su calidad.
+
+## Rhizoctonia solani
+
+### Enfermedades
+
+-   Causa la pudrición de raíz y tallo, afectando principalmente a las plántulas.
+
+### Impacto
+
+-   **Crecimiento desigual**: Las plantas afectadas presentan un crecimiento irregular y una reducción en el rendimiento.
+
+## Pythium spp.
+
+### Enfermedades
+
+-   Produce la pudrición de semillas y raíces, siendo destructivo en condiciones de alta humedad.
+
+### Impacto
+
+-   **Germinación fallida**: Las plántulas afectadas tienen dificultades para germinar y desarrollarse adecuadamente.
+
+## Sclerotinia sclerotiorum
+
+### Enfermedades
+
+-   Causa la pudrición blanca, debilitando la planta.
+
+### Impacto
+
+-   **Moho blanco**: Este patógeno produce un moho blanco característico en los tallos y mazorcas, reduciendo significativamente el rendimiento.
+
+## Otros Patógenos
+
+### Exserohilum turcicum
+
+-   **Enfermedades**: Mancha foliar o tizón foliar.
+-   **Impacto**: Reduce la fotosíntesis y debilita la planta, afectando el rendimiento.
+
+### Ustilago maydis
+
+-   **Enfermedades**: Huitlacoche (carbón del maíz).
+-   **Impacto**: Aunque es un manjar en algunos lugares, deforma las mazorcas y reduce el rendimiento en la agricultura comercial.
+
+## Control Biológico en el Cultivo de Maíz
+
+### Uso de Trichoderma
+
+-   La aplicación de **Trichoderma** es una estrategia sostenible para el manejo de patógenos en el maíz.
+-   Mejora la salud del suelo y promueve el crecimiento de las plantas al suprimir patógenos.
+
+### Prácticas Agrícolas
+
+-   **Rotación de cultivos**: Reduce la incidencia de enfermedades.
+-   **Selección de variedades resistentes**: Crucial para minimizar el impacto de patógenos.
+
+## Conclusiones
+
+-   **Trichoderma** ofrece una solución eficaz para el manejo de patógenos en el maíz.
+-   Un manejo integrado que combine biocontrol con prácticas agrícolas adecuadas puede mejorar la productividad y sostenibilidad del cultivo.
+
+## Referencias
+
+-   White, D.G. (2006). Fusarium diseases of corn. Iowa State University.
+-   Harman, G.E. (2000). Trichoderma species—opportunistic, avirulent plant symbionts. Nature Reviews Microbiology.
+-   Butler, D.M. et al. (2013). Rhizoctonia diseases in field crops. Plant Disease.
+-   Más referencias según se especificó en el archivo `.bib`.

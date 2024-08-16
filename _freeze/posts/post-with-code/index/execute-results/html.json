@@ -1,0 +1,15 @@
+{
+  "hash": "759254619508efcbb4ff5a28bc066020",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Cultivo de maiz\"\nauthor: \"Julio Aguilar\"\ndate: \"2024-07-10\"\ncategories: [cultivo]\nimage: \"image.jpg\"\ndraft: false \n---\n\n\nImportancia del cultivo de maiz en nuestro pais\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

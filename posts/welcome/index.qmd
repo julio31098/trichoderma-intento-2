@@ -1,0 +1,104 @@
+---
+title: "Generalidades del estudio"
+author: "Julio Aguilar"
+date: "2024-07-07"
+categories: [Trichoderma, Antagonismo, Analisis]
+image: tricho.jpg
+---
+
+## Introducción de Trichoderma
+
+*Trichoderma* es un género de hongos saprófitos ampliamente reconocidos por su capacidad de actuar como agentes de control biológico. Estos hongos protegen los cultivos mediante:
+
+-   **Antibiosis**
+-   **Micoparasitismo**
+-   **Competencia por espacio y nutrientes**
+-   **Inducción de resistencia sistémica (ISR)**
+
+![trichoderma](Trichoderma_1.jpg)
+
+## Introducción al Control Biológico en el Cultivo de Maíz
+
+El maíz es uno de los cultivos más importantes a nivel mundial, no solo por su uso alimentario directo, sino también como base para la producción de biocombustibles, piensos y productos industriales. Sin embargo, su cultivo enfrenta numerosos desafíos fitosanitarios, incluyendo la presencia de hongos patógenos como *Fusarium spp.*, *Rhizoctonia solani*, *Pythium spp.*, y *Sclerotinia spp.*
+
+El control biológico, mediante el uso de hongos del género *Trichoderma*, se presenta como una alternativa sostenible para combatir estos patógenos y reducir la dependencia de agroquímicos.
+
+## Especies de *Trichoderma* en el Control de Patógenos
+
+### *Trichoderma atroviride*
+
+*Trichoderma atroviride* es conocido por su producción de enzimas hidrolíticas que descomponen las paredes celulares de otros hongos patógenos. Su aplicación en maíz ha demostrado ser efectiva en el control de *Fusarium* y *Pythium*.
+
+### *Trichoderma viride*
+
+*Trichoderma viride* es un micoparásito agresivo que ha sido utilizado con éxito en el manejo de *Rhizoctonia solani* en maíz.
+
+### *Trichoderma asperellum*
+
+*Trichoderma asperellum* es eficaz contra patógenos como *Pythium* y *Sclerotinia*, induciendo además resistencia sistémica en las plantas.
+
+## Beneficios del Uso de *Trichoderma* en Maíz
+
+El uso de *Trichoderma* en maíz proporciona numerosos beneficios, como la reducción del uso de agroquímicos, la mejora de la producción y la calidad del grano, y un impacto ambiental positivo.
+
+## Métodos de Aplicación de *Trichoderma* en el Cultivo de Maíz
+
+*Trichoderma* se aplica en maíz mediante formulaciones comerciales, como tratamientos de semillas o aplicaciones directas al suelo.
+
+## Desafíos y Consideraciones en el Uso de *Trichoderma*
+
+A pesar de sus beneficios, la efectividad de *Trichoderma* puede variar dependiendo de las condiciones ambientales. La investigación continua es clave para maximizar su potencial.
+
+## pruebas de antagonismo
+
+Las pruebas de antagonismo son un paso fundamental para evaluar la capacidad de un determinado microorganismo como agente de biocontrol. El porcentaje de inhibición del crecimiento radial (PICR) obtenido para cada cepa es un indicador directo de su potencial.
+
+![pruebas duales de antagonismo](antagonismo_1.jpg)
+
+::: panel-tabset
+## Trichoderma atroviride
+
+este variedaded demostró un antagonismo significativo frente a diferentes patogenos
+
+![prueba de antagonismo de atroviride](atroviride_1.jpg)
+
+## Trichoderma asperellum
+
+esta variedad no tuvo un efecto antagonico significativo en las pruebas realizadas
+
+![prueba de antagonismo de Trichoderma asperellum](asperellum_1.jfif)
+
+## Trichoderma viride
+
+esta variedad tuvo diferencias ligeramente significativas
+
+![prueba de antaginismo de viride](viride_1.png)
+:::
+
+::: callout-warning
+El uso de esta investigación es propiedad privada de la universidad veracruzana
+:::
+
+## Diseño Experimental: Estudio de Bloques al Azar
+
+Para estudiar la efectividad de las diferentes especies de *Trichoderma* en el control de patógenos en maíz, se propone un diseño experimental de bloques al azar. La siguiente tabla muestra la estructura del diseño:
+
+### Resultado:
+
+La tabla generada contiene todas las combinaciones posibles de las especies de *Trichoderma* con las dosis especificadas, mostrando cómo se podrían aplicar diferentes cantidades de esporas en un experimento de control biológico en maíz.
+
+|  Trichoderma  |      Dosis       |
+|:-------------:|:----------------:|
+| T. atroviride | 10\^6 esporas/mL |
+| T. atroviride | 10\^7 esporas/mL |
+| T. atroviride | 10\^8 esporas/mL |
+|   T. viride   | 10\^6 esporas/mL |
+|   T. viride   | 10\^7 esporas/mL |
+|   T. viride   | 10\^8 esporas/mL |
+| T. asperellum | 10\^6 esporas/mL |
+| T. asperellum | 10\^7 esporas/mL |
+| T. asperellum | 10\^8 esporas/mL |
+
+## Conclusiones
+
+El uso de *Trichoderma* como agente de control biológico en el cultivo de maíz representa una herramienta valiosa para la agricultura sostenible y productiva.
