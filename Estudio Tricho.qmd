@@ -1,6 +1,4 @@
 ---
-
----
 title: "Estudio de Trichoderma"
 author: "Julio Aguilar"
 date: "`r Sys.Date()`"
@@ -13,12 +11,12 @@ El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. S
 
 ## Trichoderma spp.
 
-- **Especies clave**: *Trichoderma atroviride*, *T. asperellum*, *T. viride*.
-- **Función principal**: Agentes biocontroladores que protegen las plantas contra patógenos.
-- **Mecanismo de acción**:
-  - Competencia por nutrientes y espacio.
-  - Producción de enzimas hidrolíticas.
-  - Inducción de defensas en las plantas.
+-   **Especies clave**: *Trichoderma atroviride*, *T. asperellum*, *T. viride*.
+-   **Función principal**: Agentes biocontroladores que protegen las plantas contra patógenos.
+-   **Mecanismo de acción**:
+    -   Competencia por nutrientes y espacio.
+    -   Producción de enzimas hidrolíticas.
+    -   Inducción de defensas en las plantas.
 
 ![Trichoderma](https://example.com/trichoderma_image.png) <!-- Añade la URL de una imagen aquí -->
 
@@ -26,27 +24,27 @@ El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. S
 
 ### Fusarium spp.
 
-- **Enfermedades**: Pudrición de raíz, tallo y mazorca.
-- **Impacto**: Provoca marchitez, decoloración, y formación de micotoxinas en los granos.
+-   **Enfermedades**: Pudrición de raíz, tallo y mazorca.
+-   **Impacto**: Provoca marchitez, decoloración, y formación de micotoxinas en los granos.
 
 ### Rhizoctonia solani
 
-- **Enfermedades**: Pudrición de raíz y tallo.
-- **Impacto**: Afecta principalmente a las plántulas, causando debilidad y disminución en el rendimiento.
+-   **Enfermedades**: Pudrición de raíz y tallo.
+-   **Impacto**: Afecta principalmente a las plántulas, causando debilidad y disminución en el rendimiento.
 
 ### Otros Patógenos
 
-- *Pythium spp.*: Pudrición de semillas y raíces, destructivo en condiciones de alta humedad.
-- *Sclerotinia sclerotiorum*: Pudrición blanca, debilitando la planta.
-- *Exserohilum turcicum*: Mancha foliar o tizón foliar, reduce la fotosíntesis.
+-   *Pythium spp.*: Pudrición de semillas y raíces, destructivo en condiciones de alta humedad.
+-   *Sclerotinia sclerotiorum*: Pudrición blanca, debilitando la planta.
+-   *Exserohilum turcicum*: Mancha foliar o tizón foliar, reduce la fotosíntesis.
 
 ## Cultivo de Maíz
 
-- **Importancia global**: Base alimentaria para millones de personas y fuente clave de ingresos.
-- **Factores de éxito**:
-  - Selección de variedades resistentes.
-  - Manejo adecuado del suelo y la humedad.
-  - Implementación de controles biológicos y químicos.
+-   **Importancia global**: Base alimentaria para millones de personas y fuente clave de ingresos.
+-   **Factores de éxito**:
+    -   Selección de variedades resistentes.
+    -   Manejo adecuado del suelo y la humedad.
+    -   Implementación de controles biológicos y químicos.
 
 ## Conclusión
 
@@ -54,8 +52,8 @@ El uso de *Trichoderma* como agente de control biológico ofrece una estrategia 
 
 ## Referencias
 
-- White, D.G. (2006). Fusarium diseases of corn. Iowa State University.
-- Harman, G.E. (2000). Trichoderma species—opportunistic, avirulent plant symbionts. Nature Reviews Microbiology.
-- Butler, D.M. et al. (2013). Rhizoctonia diseases in field crops. Plant Disease
+-   White, D.G. (2006). Fusarium diseases of corn. Iowa State University.
+-   Harman, G.E. (2000). Trichoderma species—opportunistic, avirulent plant symbionts. Nature Reviews Microbiology.
+-   Butler, D.M. et al. (2013). Rhizoctonia diseases in field crops. Plant Disease
 
----
+------------------------------------------------------------------------

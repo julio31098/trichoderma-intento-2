@@ -1,24 +1,52 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Estudio de Trichoderma",
+    "objectID": "tri.html",
+    "href": "tri.html",
+    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
     "section": "",
-    "text": "Bienvenido a mi blog donde se muestran las caracterisricas principales del trichoderma, asi como su efecto como biocontroldadores y la importancia del cultivo de maíz en nuestro pais.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultivo de maiz\n\n\n\n\n\n\ncultivo\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nPatogenos\n\n\n\n\n\n\nPatogenos\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nGeneralidades del estudio\n\n\n\n\n\n\nTrichoderma\n\n\nAntagonismo\n\n\nAnalisis\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\nNo matching items"
+    "text": "El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Cultivo de maiz",
+    "objectID": "tri.html#introducción",
+    "href": "tri.html#introducción",
+    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
     "section": "",
-    "text": "El maíz es un cultivo de vital importancia en México, no solo por su relevancia económica, sino también por su profundo significado cultural y social. A continuación, se exploran los aspectos clave que destacan su importancia en el país \n\n\nEl maíz es el pilar de la dieta mexicana. Con él se preparan alimentos básicos como tortillas, tamales, pozole y otros platillos tradicionales. Su consumo es diario en la mayoría de los hogares mexicanos, siendo un elemento esencial en la nutrición de la población.\n\n\n\ncultivo de maiz\n\n\n\n\n\nEl maíz tiene un profundo significado cultural en México. Está ligado a la identidad y cosmovisión de muchas comunidades indígenas. La relación entre el maíz y la cultura mexicana se refleja en la leyenda del maíz en el Popol Vuh, y en la celebración de festivales y rituales agrícolas. \n\n\n\nEl cultivo de maíz es una de las principales actividades agrícolas en México. Genera empleo para millones de personas, especialmente en las áreas rurales. El país produce tanto maíz blanco, destinado principalmente al consumo humano, como maíz amarillo, utilizado en la alimentación animal e industrial. \n\n\n\nMéxico es uno de los principales productores de maíz en el mundo, y su producción es crucial para la seguridad alimentaria del país. Aunque el país importa maíz, especialmente amarillo, la producción nacional es esencial para abastecer la demanda interna. \n\n\n\nMéxico es el centro de origen y diversificación del maíz, albergando una gran variedad de razas y variedades. Esta diversidad es clave para la investigación agrícola y la adaptación del maíz a diferentes condiciones climáticas y desafíos agrícolas."
+    "text": "El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Acerca de mi",
-    "section": "",
-    "text": "Soy Julio Aguilar estudiante de la maestría en ciencias agropecuarias de la universidad veracruzana, este proyecto forma parte de mi formación para seguir enriqueciendo mis habilidades y conocimientos en la investigación."
+    "objectID": "tri.html#trichoderma-spp.",
+    "href": "tri.html#trichoderma-spp.",
+    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
+    "section": "Trichoderma spp.",
+    "text": "Trichoderma spp.\n\nEspecies clave: Trichoderma atroviride, T. asperellum, T. viride.\nFunción principal: Agentes biocontroladores que protegen las plantas contra patógenos.\nMecanismo de acción:\n\nCompetencia por nutrientes y espacio.\nProducción de enzimas hidrolíticas.\nInducción de defensas en las plantas."
+  },
+  {
+    "objectID": "tri.html#patógenos-del-maíz",
+    "href": "tri.html#patógenos-del-maíz",
+    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
+    "section": "Patógenos del Maíz",
+    "text": "Patógenos del Maíz\n\nFusarium spp.\n\nEnfermedades: Pudrición de raíz, tallo y mazorca.\nImpacto: Provoca marchitez, decoloración, y formación de micotoxinas en los granos.\n\n\n\nRhizoctonia solani\n\nEnfermedades: Pudrición de raíz y tallo.\nImpacto: Afecta principalmente a las plántulas, causando debilidad y disminución en el rendimiento.\n\n\n\nOtros Patógenos\n\nPythium spp.: Pudrición de semillas y raíces, destructivo en condiciones de alta humedad.\nSclerotinia sclerotiorum: Pudrición blanca, debilitando la planta.\nExserohilum turcicum: Mancha foliar o tizón foliar, reduce la fotosíntesis."
+  },
+  {
+    "objectID": "tri.html#cultivo-de-maíz",
+    "href": "tri.html#cultivo-de-maíz",
+    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
+    "section": "Cultivo de Maíz",
+    "text": "Cultivo de Maíz\n\nImportancia global: Base alimentaria para millones de personas y fuente clave de ingresos.\nFactores de éxito:\n\nSelección de variedades resistentes.\nManejo adecuado del suelo y la humedad.\nImplementación de controles biológicos y químicos."
+  },
+  {
+    "objectID": "tri.html#conclusión",
+    "href": "tri.html#conclusión",
+    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
+    "section": "Conclusión",
+    "text": "Conclusión\nEl uso de Trichoderma como agente de control biológico ofrece una estrategia sostenible para manejar los patógenos en el cultivo de maíz. Junto con prácticas agrícolas adecuadas, es posible mejorar la resistencia del maíz y garantizar altos rendimientos."
+  },
+  {
+    "objectID": "tri.html#referencias",
+    "href": "tri.html#referencias",
+    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
+    "section": "Referencias",
+    "text": "Referencias\n\nWhite, D.G. (2006). Fusarium diseases of corn. Iowa State University.\nHarman, G.E. (2000). Trichoderma species—opportunistic, avirulent plant symbionts. Nature Reviews Microbiology.\nButler, D.M. et al. (2013). Rhizoctonia diseases in field crops. Plant Disease.\nY más referencias como se especificó en el archivo .bib."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,181 +54,6 @@
     "title": "Generalidades del estudio",
     "section": "",
     "text": "Trichoderma es un género de hongos saprófitos ampliamente reconocidos por su capacidad de actuar como agentes de control biológico. Estos hongos protegen los cultivos mediante:\n\nAntibiosis\nMicoparasitismo\nCompetencia por espacio y nutrientes\nInducción de resistencia sistémica (ISR)\n\n\n\n\ntrichoderma"
-  },
-  {
-    "objectID": "index.html#trichoderma-aplicado-en-maiz",
-    "href": "index.html#trichoderma-aplicado-en-maiz",
-    "title": "trichoderma intento 2",
-    "section": "",
-    "text": "Trichoderma es un hongo cosmopolita cuya importancia radica en su capacidad de adaptación y producción de metabolitos, como enzimas, compuestos promotores de crecimiento vegetal, y compuestos volátiles, entre otros, de interés biotecnológico y ambiental.\n\n\n\ntrichoderma"
-  },
-  {
-    "objectID": "index.html#introducción-de-trichoderma",
-    "href": "index.html#introducción-de-trichoderma",
-    "title": "trichoderma intento 2",
-    "section": "",
-    "text": "Trichoderma es un género de hongos saprófitos ampliamente reconocidos por su capacidad de actuar como agentes de control biológico. Estos hongos protegen los cultivos mediante:\n\nAntibiosis\nMicoparasitismo\nCompetencia por espacio y nutrientes\nInducción de resistencia sistémica (ISR)\n\n\n\n\ntrichoderma"
-  },
-  {
-    "objectID": "index.html#pruebas-de-antagonismo",
-    "href": "index.html#pruebas-de-antagonismo",
-    "title": "trichoderma intento 2",
-    "section": "pruebas de antagonismo",
-    "text": "pruebas de antagonismo\nLas pruebas de antagonismo son un paso fundamental para evaluar la capacidad de un determinado microorganismo como agente de biocontrol. El porcentaje de inhibición del crecimiento radial (PICR) obtenido para cada cepa es un indicador directo de su potencial.\n\n\n\npruebas duales de antagonismo\n\n\n\nTrichoderma atrovirideTrichoderma asperellumTrichoderma viride\n\n\neste variedaded demostró un antagonismo significativo frente a diferentes patogenos\n\n\n\nprueba de antagonismo de atroviride\n\n\n\n\nesta variedad no tuvo un efecto antagonico significativo en las pruebas realizadas\n\n\n\nprueba de antagonismo de Trichoderma asperellum\n\n\n\n\nesta variedad tuvo diferencias ligeramente significativas\n\n\n\nprueba de antaginismo de viride\n\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nEl uso de esta investigación es propiedad privada de la universidad veracruzana"
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html",
-    "href": "posts/Patogenos/UntitledQMD.html",
-    "title": "Patogenos",
-    "section": "",
-    "text": "principales patogenos que dañan el cultivo del maiz"
-  },
-  {
-    "objectID": "index.html#introducción-al-control-biológico-en-el-cultivo-de-maíz",
-    "href": "index.html#introducción-al-control-biológico-en-el-cultivo-de-maíz",
-    "title": "trichoderma intento 2",
-    "section": "Introducción al Control Biológico en el Cultivo de Maíz",
-    "text": "Introducción al Control Biológico en el Cultivo de Maíz\nEl maíz es uno de los cultivos más importantes a nivel mundial, no solo por su uso alimentario directo, sino también como base para la producción de biocombustibles, piensos y productos industriales. Sin embargo, su cultivo enfrenta numerosos desafíos fitosanitarios, incluyendo la presencia de hongos patógenos como Fusarium spp., Rhizoctonia solani, Pythium spp., y Sclerotinia spp.\nEl control biológico, mediante el uso de hongos del género Trichoderma, se presenta como una alternativa sostenible para combatir estos patógenos y reducir la dependencia de agroquímicos."
-  },
-  {
-    "objectID": "index.html#especies-de-trichoderma-en-el-control-de-patógenos",
-    "href": "index.html#especies-de-trichoderma-en-el-control-de-patógenos",
-    "title": "trichoderma intento 2",
-    "section": "Especies de Trichoderma en el Control de Patógenos",
-    "text": "Especies de Trichoderma en el Control de Patógenos\n\nTrichoderma atroviride\nTrichoderma atroviride es conocido por su producción de enzimas hidrolíticas que descomponen las paredes celulares de otros hongos patógenos. Su aplicación en maíz ha demostrado ser efectiva en el control de Fusarium y Pythium.\n\n\nTrichoderma viride\nTrichoderma viride es un micoparásito agresivo que ha sido utilizado con éxito en el manejo de Rhizoctonia solani en maíz.\n\n\nTrichoderma asperellum\nTrichoderma asperellum es eficaz contra patógenos como Pythium y Sclerotinia, induciendo además resistencia sistémica en las plantas."
-  },
-  {
-    "objectID": "index.html#beneficios-del-uso-de-trichoderma-en-maíz",
-    "href": "index.html#beneficios-del-uso-de-trichoderma-en-maíz",
-    "title": "trichoderma intento 2",
-    "section": "Beneficios del Uso de Trichoderma en Maíz",
-    "text": "Beneficios del Uso de Trichoderma en Maíz\nEl uso de Trichoderma en maíz proporciona numerosos beneficios, como la reducción del uso de agroquímicos, la mejora de la producción y la calidad del grano, y un impacto ambiental positivo."
-  },
-  {
-    "objectID": "index.html#métodos-de-aplicación-de-trichoderma-en-el-cultivo-de-maíz",
-    "href": "index.html#métodos-de-aplicación-de-trichoderma-en-el-cultivo-de-maíz",
-    "title": "trichoderma intento 2",
-    "section": "Métodos de Aplicación de Trichoderma en el Cultivo de Maíz",
-    "text": "Métodos de Aplicación de Trichoderma en el Cultivo de Maíz\nTrichoderma se aplica en maíz mediante formulaciones comerciales, como tratamientos de semillas o aplicaciones directas al suelo."
-  },
-  {
-    "objectID": "index.html#desafíos-y-consideraciones-en-el-uso-de-trichoderma",
-    "href": "index.html#desafíos-y-consideraciones-en-el-uso-de-trichoderma",
-    "title": "trichoderma intento 2",
-    "section": "Desafíos y Consideraciones en el Uso de Trichoderma",
-    "text": "Desafíos y Consideraciones en el Uso de Trichoderma\nA pesar de sus beneficios, la efectividad de Trichoderma puede variar dependiendo de las condiciones ambientales. La investigación continua es clave para maximizar su potencial."
-  },
-  {
-    "objectID": "index.html#diseño-experimental-estudio-de-bloques-al-azar",
-    "href": "index.html#diseño-experimental-estudio-de-bloques-al-azar",
-    "title": "trichoderma intento 2",
-    "section": "Diseño Experimental: Estudio de Bloques al Azar",
-    "text": "Diseño Experimental: Estudio de Bloques al Azar\nPara estudiar la efectividad de las diferentes especies de Trichoderma en el control de patógenos en maíz, se propone un diseño experimental de bloques al azar. La siguiente tabla muestra la estructura del diseño:\n\nResultado:\nLa tabla generada contiene todas las combinaciones posibles de las especies de Trichoderma con las dosis especificadas, mostrando cómo se podrían aplicar diferentes cantidades de esporas en un experimento de control biológico en maíz.\n\n\n\nTrichoderma\nDosis\n\n\n\n\nT. atroviride\n10^6 esporas/mL\n\n\nT. atroviride\n10^7 esporas/mL\n\n\nT. atroviride\n10^8 esporas/mL\n\n\nT. viride\n10^6 esporas/mL\n\n\nT. viride\n10^7 esporas/mL\n\n\nT. viride\n10^8 esporas/mL\n\n\nT. asperellum\n10^6 esporas/mL\n\n\nT. asperellum\n10^7 esporas/mL\n\n\nT. asperellum\n10^8 esporas/mL"
-  },
-  {
-    "objectID": "index.html#conclusiones",
-    "href": "index.html#conclusiones",
-    "title": "trichoderma intento 2",
-    "section": "Conclusiones",
-    "text": "Conclusiones\nEl uso de Trichoderma como agente de control biológico en el cultivo de maíz representa una herramienta valiosa para la agricultura sostenible y productiva."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#base-de-la-alimentación",
-    "href": "posts/post-with-code/index.html#base-de-la-alimentación",
-    "title": "Cultivo de maiz",
-    "section": "",
-    "text": "El maíz es el pilar de la dieta mexicana. Con él se preparan alimentos básicos como tortillas, tamales, pozole y otros platillos tradicionales. Su consumo es diario en la mayoría de los hogares mexicanos, siendo un elemento esencial en la nutrición de la población.\n\n\n\ncultivo de maiz"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#patrimonio-cultural",
-    "href": "posts/post-with-code/index.html#patrimonio-cultural",
-    "title": "Cultivo de maiz",
-    "section": "",
-    "text": "El maíz tiene un profundo significado cultural en México. Está ligado a la identidad y cosmovisión de muchas comunidades indígenas. La relación entre el maíz y la cultura mexicana se refleja en la leyenda del maíz en el Popol Vuh, y en la celebración de festivales y rituales agrícolas."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#economía-y-empleo",
-    "href": "posts/post-with-code/index.html#economía-y-empleo",
-    "title": "Cultivo de maiz",
-    "section": "",
-    "text": "El cultivo de maíz es una de las principales actividades agrícolas en México. Genera empleo para millones de personas, especialmente en las áreas rurales. El país produce tanto maíz blanco, destinado principalmente al consumo humano, como maíz amarillo, utilizado en la alimentación animal e industrial."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#soberanía-alimentaria",
-    "href": "posts/post-with-code/index.html#soberanía-alimentaria",
-    "title": "Cultivo de maiz",
-    "section": "",
-    "text": "México es uno de los principales productores de maíz en el mundo, y su producción es crucial para la seguridad alimentaria del país. Aunque el país importa maíz, especialmente amarillo, la producción nacional es esencial para abastecer la demanda interna."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#diversidad-genética",
-    "href": "posts/post-with-code/index.html#diversidad-genética",
-    "title": "Cultivo de maiz",
-    "section": "",
-    "text": "México es el centro de origen y diversificación del maíz, albergando una gran variedad de razas y variedades. Esta diversidad es clave para la investigación agrícola y la adaptación del maíz a diferentes condiciones climáticas y desafíos agrícolas."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#fusarium-spp.",
-    "href": "posts/Patogenos/UntitledQMD.html#fusarium-spp.",
-    "title": "Patogenos",
-    "section": "Fusarium spp.",
-    "text": "Fusarium spp.\nEnfermedades: Pudrición de raíz, tallo y mazorca.\nImpacto: Provoca la marchitez de las plantas, decoloración y formación de micotoxinas en los granos, afectando tanto la producción como la calidad del maíz [@Smith2019]."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#rhizoctonia-solani",
-    "href": "posts/Patogenos/UntitledQMD.html#rhizoctonia-solani",
-    "title": "Patogenos",
-    "section": "Rhizoctonia solani",
-    "text": "Rhizoctonia solani\nEnfermedades: Pudrición de raíz y tallo.\nImpacto: Afecta principalmente las plántulas, causando un crecimiento desigual, debilidad en las plantas y una disminución en el rendimiento [@Lopez2018]."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#pythium-spp.",
-    "href": "posts/Patogenos/UntitledQMD.html#pythium-spp.",
-    "title": "Patogenos",
-    "section": "Pythium spp.",
-    "text": "Pythium spp.\nEnfermedades: Pudrición de semillas y raíces.\nImpacto: Destructivo en condiciones de alta humedad, afectando la germinación y el desarrollo temprano de las plantas [@Rodriguez2021]."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#sclerotinia-sclerotiorum",
-    "href": "posts/Patogenos/UntitledQMD.html#sclerotinia-sclerotiorum",
-    "title": "Patogenos",
-    "section": "Sclerotinia sclerotiorum",
-    "text": "Sclerotinia sclerotiorum\nEnfermedades: Pudrición blanca.\nImpacto: Causa un moho blanco en tallos y mazorcas, debilitando la planta y reduciendo significativamente el rendimiento [@Garcia2017]."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#exserohilum-turcicum",
-    "href": "posts/Patogenos/UntitledQMD.html#exserohilum-turcicum",
-    "title": "Patogenos",
-    "section": "Exserohilum turcicum",
-    "text": "Exserohilum turcicum\nEnfermedades: Mancha foliar o tizón foliar.\nImpacto: Produce lesiones en las hojas, reduciendo la fotosíntesis y debilitando la planta, lo que puede llevar a una reducción en el rendimiento [@Martinez2020]."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#ustilago-maydis",
-    "href": "posts/Patogenos/UntitledQMD.html#ustilago-maydis",
-    "title": "Patogenos",
-    "section": "Ustilago maydis",
-    "text": "Ustilago maydis\nEnfermedades: Huitlacoche (carbón del maíz).\nImpacto: Aunque se considera una delicia gastronómica en algunos países, en la agricultura comercial deforma las mazorcas y reduce el rendimiento del cultivo [@Fernandez2019]."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#colletotrichum-graminicola",
-    "href": "posts/Patogenos/UntitledQMD.html#colletotrichum-graminicola",
-    "title": "Patogenos",
-    "section": "Colletotrichum graminicola",
-    "text": "Colletotrichum graminicola\nEnfermedades: Antracnosis.\nImpacto: Causa lesiones negras en hojas y tallos, que pueden llevar al debilitamiento y la muerte de las plantas jóvenes [@Perez2022]."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#puccinia-sorghi",
-    "href": "posts/Patogenos/UntitledQMD.html#puccinia-sorghi",
-    "title": "Patogenos",
-    "section": "Puccinia sorghi",
-    "text": "Puccinia sorghi\nEnfermedades: Roya común del maíz.\nImpacto: Produce pústulas de color marrón en las hojas, afectando la fotosíntesis y reduciendo el rendimiento, especialmente en climas húmedos [@Sanchez2018]."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#maize-dwarf-mosaic-virus-mdmv",
-    "href": "posts/Patogenos/UntitledQMD.html#maize-dwarf-mosaic-virus-mdmv",
-    "title": "Patogenos",
-    "section": "Maize Dwarf Mosaic Virus (MDMV)",
-    "text": "Maize Dwarf Mosaic Virus (MDMV)\nEnfermedades: Virus del mosaico enano del maíz.\nImpacto: Causa un moteado clorótico en las hojas, retraso en el crecimiento y enanismo, lo que puede reducir significativamente la producción [@Ramirez2020]."
   },
   {
     "objectID": "posts/welcome/index.html#introducción-de-trichoderma",
@@ -266,18 +119,60 @@
     "text": "Conclusiones\nEl uso de Trichoderma como agente de control biológico en el cultivo de maíz representa una herramienta valiosa para la agricultura sostenible y productiva."
   },
   {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Cultivo de maiz",
+    "section": "",
+    "text": "El maíz es un cultivo de vital importancia en México, no solo por su relevancia económica, sino también por su profundo significado cultural y social. A continuación, se exploran los aspectos clave que destacan su importancia en el país \n\n\nEl maíz es el pilar de la dieta mexicana. Con él se preparan alimentos básicos como tortillas, tamales, pozole y otros platillos tradicionales. Su consumo es diario en la mayoría de los hogares mexicanos, siendo un elemento esencial en la nutrición de la población.\n\n\n\ncultivo de maiz\n\n\n\n\n\nEl maíz tiene un profundo significado cultural en México. Está ligado a la identidad y cosmovisión de muchas comunidades indígenas. La relación entre el maíz y la cultura mexicana se refleja en la leyenda del maíz en el Popol Vuh, y en la celebración de festivales y rituales agrícolas. \n\n\n\nEl cultivo de maíz es una de las principales actividades agrícolas en México. Genera empleo para millones de personas, especialmente en las áreas rurales. El país produce tanto maíz blanco, destinado principalmente al consumo humano, como maíz amarillo, utilizado en la alimentación animal e industrial. \n\n\n\nMéxico es uno de los principales productores de maíz en el mundo, y su producción es crucial para la seguridad alimentaria del país. Aunque el país importa maíz, especialmente amarillo, la producción nacional es esencial para abastecer la demanda interna. \n\n\n\nMéxico es el centro de origen y diversificación del maíz, albergando una gran variedad de razas y variedades. Esta diversidad es clave para la investigación agrícola y la adaptación del maíz a diferentes condiciones climáticas y desafíos agrícolas."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#base-de-la-alimentación",
+    "href": "posts/post-with-code/index.html#base-de-la-alimentación",
+    "title": "Cultivo de maiz",
+    "section": "",
+    "text": "El maíz es el pilar de la dieta mexicana. Con él se preparan alimentos básicos como tortillas, tamales, pozole y otros platillos tradicionales. Su consumo es diario en la mayoría de los hogares mexicanos, siendo un elemento esencial en la nutrición de la población.\n\n\n\ncultivo de maiz"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#patrimonio-cultural",
+    "href": "posts/post-with-code/index.html#patrimonio-cultural",
+    "title": "Cultivo de maiz",
+    "section": "",
+    "text": "El maíz tiene un profundo significado cultural en México. Está ligado a la identidad y cosmovisión de muchas comunidades indígenas. La relación entre el maíz y la cultura mexicana se refleja en la leyenda del maíz en el Popol Vuh, y en la celebración de festivales y rituales agrícolas."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#economía-y-empleo",
+    "href": "posts/post-with-code/index.html#economía-y-empleo",
+    "title": "Cultivo de maiz",
+    "section": "",
+    "text": "El cultivo de maíz es una de las principales actividades agrícolas en México. Genera empleo para millones de personas, especialmente en las áreas rurales. El país produce tanto maíz blanco, destinado principalmente al consumo humano, como maíz amarillo, utilizado en la alimentación animal e industrial."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#soberanía-alimentaria",
+    "href": "posts/post-with-code/index.html#soberanía-alimentaria",
+    "title": "Cultivo de maiz",
+    "section": "",
+    "text": "México es uno de los principales productores de maíz en el mundo, y su producción es crucial para la seguridad alimentaria del país. Aunque el país importa maíz, especialmente amarillo, la producción nacional es esencial para abastecer la demanda interna."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#diversidad-genética",
+    "href": "posts/post-with-code/index.html#diversidad-genética",
+    "title": "Cultivo de maiz",
+    "section": "",
+    "text": "México es el centro de origen y diversificación del maíz, albergando una gran variedad de razas y variedades. Esta diversidad es clave para la investigación agrícola y la adaptación del maíz a diferentes condiciones climáticas y desafíos agrícolas."
+  },
+  {
     "objectID": "Estudio Tricho.html",
     "href": "Estudio Tricho.html",
     "title": "Estudio de Trichoderma",
     "section": "",
-    "text": "title: “Estudio de Trichoderma” author: “Julio Aguilar” date: “r Sys.Date()” output: ioslides_presentation"
+    "text": "El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
   },
   {
     "objectID": "Estudio Tricho.html#introducción",
     "href": "Estudio Tricho.html#introducción",
     "title": "Estudio de Trichoderma",
-    "section": "Introducción",
-    "text": "Introducción\nEl cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
+    "section": "",
+    "text": "El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
   },
   {
     "objectID": "Estudio Tricho.html#trichoderma-spp.",
@@ -315,53 +210,81 @@
     "text": "Referencias\n\nWhite, D.G. (2006). Fusarium diseases of corn. Iowa State University.\nHarman, G.E. (2000). Trichoderma species—opportunistic, avirulent plant symbionts. Nature Reviews Microbiology.\nButler, D.M. et al. (2013). Rhizoctonia diseases in field crops. Plant Disease"
   },
   {
-    "objectID": "tri.html",
-    "href": "tri.html",
-    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de mi",
     "section": "",
-    "text": "El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
+    "text": "Soy Julio Aguilar estudiante de la maestría en ciencias agropecuarias de la universidad veracruzana, este proyecto forma parte de mi formación para seguir enriqueciendo mis habilidades y conocimientos en la investigación."
   },
   {
-    "objectID": "tri.html#introducción",
-    "href": "tri.html#introducción",
-    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Estudio de Trichoderma",
     "section": "",
-    "text": "El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
+    "text": "Bienvenido a mi blog donde se muestran las caracterisricas principales del trichoderma, asi como su efecto como biocontroldadores y la importancia del cultivo de maíz en nuestro pais.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultivo de maiz\n\n\n\n\n\n\ncultivo\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nPatogenos\n\n\n\n\n\n\nPatogenos\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nGeneralidades del estudio\n\n\n\n\n\n\nTrichoderma\n\n\nAntagonismo\n\n\nAnalisis\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "tri.html#trichoderma-spp.",
-    "href": "tri.html#trichoderma-spp.",
-    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
-    "section": "Trichoderma spp.",
-    "text": "Trichoderma spp.\n\nEspecies clave: Trichoderma atroviride, T. asperellum, T. viride.\nFunción principal: Agentes biocontroladores que protegen las plantas contra patógenos.\nMecanismo de acción:\n\nCompetencia por nutrientes y espacio.\nProducción de enzimas hidrolíticas.\nInducción de defensas en las plantas."
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#fusarium-spp.",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#fusarium-spp.",
+    "title": "Patogenos",
+    "section": "Fusarium spp.",
+    "text": "Fusarium spp.\nEnfermedades: Pudrición de raíz, tallo y mazorca.\nImpacto: Provoca la marchitez de las plantas, decoloración y formación de micotoxinas en los granos, afectando tanto la producción como la calidad del maíz [@Smith2019]."
   },
   {
-    "objectID": "tri.html#patógenos-del-maíz",
-    "href": "tri.html#patógenos-del-maíz",
-    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
-    "section": "Patógenos del Maíz",
-    "text": "Patógenos del Maíz\n\nFusarium spp.\n\nEnfermedades: Pudrición de raíz, tallo y mazorca.\nImpacto: Provoca marchitez, decoloración, y formación de micotoxinas en los granos.\n\n\n\nRhizoctonia solani\n\nEnfermedades: Pudrición de raíz y tallo.\nImpacto: Afecta principalmente a las plántulas, causando debilidad y disminución en el rendimiento.\n\n\n\nOtros Patógenos\n\nPythium spp.: Pudrición de semillas y raíces, destructivo en condiciones de alta humedad.\nSclerotinia sclerotiorum: Pudrición blanca, debilitando la planta.\nExserohilum turcicum: Mancha foliar o tizón foliar, reduce la fotosíntesis."
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#rhizoctonia-solani",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#rhizoctonia-solani",
+    "title": "Patogenos",
+    "section": "Rhizoctonia solani",
+    "text": "Rhizoctonia solani\nEnfermedades: Pudrición de raíz y tallo.\nImpacto: Afecta principalmente las plántulas, causando un crecimiento desigual, debilidad en las plantas y una disminución en el rendimiento [@Lopez2018]."
   },
   {
-    "objectID": "tri.html#cultivo-de-maíz",
-    "href": "tri.html#cultivo-de-maíz",
-    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
-    "section": "Cultivo de Maíz",
-    "text": "Cultivo de Maíz\n\nImportancia global: Base alimentaria para millones de personas y fuente clave de ingresos.\nFactores de éxito:\n\nSelección de variedades resistentes.\nManejo adecuado del suelo y la humedad.\nImplementación de controles biológicos y químicos."
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#pythium-spp.",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#pythium-spp.",
+    "title": "Patogenos",
+    "section": "Pythium spp.",
+    "text": "Pythium spp.\nEnfermedades: Pudrición de semillas y raíces.\nImpacto: Destructivo en condiciones de alta humedad, afectando la germinación y el desarrollo temprano de las plantas [@Rodriguez2021]."
   },
   {
-    "objectID": "tri.html#conclusión",
-    "href": "tri.html#conclusión",
-    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
-    "section": "Conclusión",
-    "text": "Conclusión\nEl uso de Trichoderma como agente de control biológico ofrece una estrategia sostenible para manejar los patógenos en el cultivo de maíz. Junto con prácticas agrícolas adecuadas, es posible mejorar la resistencia del maíz y garantizar altos rendimientos."
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#sclerotinia-sclerotiorum",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#sclerotinia-sclerotiorum",
+    "title": "Patogenos",
+    "section": "Sclerotinia sclerotiorum",
+    "text": "Sclerotinia sclerotiorum\nEnfermedades: Pudrición blanca.\nImpacto: Causa un moho blanco en tallos y mazorcas, debilitando la planta y reduciendo significativamente el rendimiento [@Garcia2017]."
   },
   {
-    "objectID": "tri.html#referencias",
-    "href": "tri.html#referencias",
-    "title": "Trichoderma, Patógenos y el Cultivo de Maíz",
-    "section": "Referencias",
-    "text": "Referencias\n\nWhite, D.G. (2006). Fusarium diseases of corn. Iowa State University.\nHarman, G.E. (2000). Trichoderma species—opportunistic, avirulent plant symbionts. Nature Reviews Microbiology.\nButler, D.M. et al. (2013). Rhizoctonia diseases in field crops. Plant Disease.\nY más referencias como se especificó en el archivo .bib."
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#exserohilum-turcicum",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#exserohilum-turcicum",
+    "title": "Patogenos",
+    "section": "Exserohilum turcicum",
+    "text": "Exserohilum turcicum\nEnfermedades: Mancha foliar o tizón foliar.\nImpacto: Produce lesiones en las hojas, reduciendo la fotosíntesis y debilitando la planta, lo que puede llevar a una reducción en el rendimiento [@Martinez2020]."
+  },
+  {
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#ustilago-maydis",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#ustilago-maydis",
+    "title": "Patogenos",
+    "section": "Ustilago maydis",
+    "text": "Ustilago maydis\nEnfermedades: Huitlacoche (carbón del maíz).\nImpacto: Aunque se considera una delicia gastronómica en algunos países, en la agricultura comercial deforma las mazorcas y reduce el rendimiento del cultivo [@Fernandez2019]."
+  },
+  {
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#colletotrichum-graminicola",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#colletotrichum-graminicola",
+    "title": "Patogenos",
+    "section": "Colletotrichum graminicola",
+    "text": "Colletotrichum graminicola\nEnfermedades: Antracnosis.\nImpacto: Causa lesiones negras en hojas y tallos, que pueden llevar al debilitamiento y la muerte de las plantas jóvenes [@Perez2022]."
+  },
+  {
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#puccinia-sorghi",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#puccinia-sorghi",
+    "title": "Patogenos",
+    "section": "Puccinia sorghi",
+    "text": "Puccinia sorghi\nEnfermedades: Roya común del maíz.\nImpacto: Produce pústulas de color marrón en las hojas, afectando la fotosíntesis y reduciendo el rendimiento, especialmente en climas húmedos [@Sanchez2018]."
+  },
+  {
+    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#maize-dwarf-mosaic-virus-mdmv",
+    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#maize-dwarf-mosaic-virus-mdmv",
+    "title": "Patogenos",
+    "section": "Maize Dwarf Mosaic Virus (MDMV)",
+    "text": "Maize Dwarf Mosaic Virus (MDMV)\nEnfermedades: Virus del mosaico enano del maíz.\nImpacto: Causa un moteado clorótico en las hojas, retraso en el crecimiento y enanismo, lo que puede reducir significativamente la producción [@Ramirez2020]."
   },
   {
     "objectID": "pre tri.html",
@@ -453,75 +376,5 @@
     "title": "Estudio de Trichoderma",
     "section": "Referencias",
     "text": "Referencias\n\nWhite, D.G. (2006). Fusarium diseases of corn. Iowa State University.\nHarman, G.E. (2000). Trichoderma species—opportunistic, avirulent plant symbionts. Nature Reviews Microbiology.\nButler, D.M. et al. (2013). Rhizoctonia diseases in field crops. Plant Disease.\nMás referencias según se especificó en el archivo .bib."
-  },
-  {
-    "objectID": "posts/Patogenos/UntitledQMD.html#conclusión",
-    "href": "posts/Patogenos/UntitledQMD.html#conclusión",
-    "title": "Patogenos",
-    "section": "Conclusión",
-    "text": "Conclusión\nEl manejo efectivo de estos patógenos es crucial para garantizar la productividad y la calidad del cultivo de maíz [@Hernandez2021]. La implementación de estrategias de control, como el uso de agentes biológicos como Trichoderma, es esencial para mitigar sus efectos negativos [@Vega2022]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#fusarium-spp.",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#fusarium-spp.",
-    "title": "Patogenos",
-    "section": "Fusarium spp.",
-    "text": "Fusarium spp.\nEnfermedades: Pudrición de raíz, tallo y mazorca.\nImpacto: Provoca la marchitez de las plantas, decoloración y formación de micotoxinas en los granos, afectando tanto la producción como la calidad del maíz [@Smith2019]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#rhizoctonia-solani",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#rhizoctonia-solani",
-    "title": "Patogenos",
-    "section": "Rhizoctonia solani",
-    "text": "Rhizoctonia solani\nEnfermedades: Pudrición de raíz y tallo.\nImpacto: Afecta principalmente las plántulas, causando un crecimiento desigual, debilidad en las plantas y una disminución en el rendimiento [@Lopez2018]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#pythium-spp.",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#pythium-spp.",
-    "title": "Patogenos",
-    "section": "Pythium spp.",
-    "text": "Pythium spp.\nEnfermedades: Pudrición de semillas y raíces.\nImpacto: Destructivo en condiciones de alta humedad, afectando la germinación y el desarrollo temprano de las plantas [@Rodriguez2021]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#sclerotinia-sclerotiorum",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#sclerotinia-sclerotiorum",
-    "title": "Patogenos",
-    "section": "Sclerotinia sclerotiorum",
-    "text": "Sclerotinia sclerotiorum\nEnfermedades: Pudrición blanca.\nImpacto: Causa un moho blanco en tallos y mazorcas, debilitando la planta y reduciendo significativamente el rendimiento [@Garcia2017]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#exserohilum-turcicum",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#exserohilum-turcicum",
-    "title": "Patogenos",
-    "section": "Exserohilum turcicum",
-    "text": "Exserohilum turcicum\nEnfermedades: Mancha foliar o tizón foliar.\nImpacto: Produce lesiones en las hojas, reduciendo la fotosíntesis y debilitando la planta, lo que puede llevar a una reducción en el rendimiento [@Martinez2020]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#ustilago-maydis",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#ustilago-maydis",
-    "title": "Patogenos",
-    "section": "Ustilago maydis",
-    "text": "Ustilago maydis\nEnfermedades: Huitlacoche (carbón del maíz).\nImpacto: Aunque se considera una delicia gastronómica en algunos países, en la agricultura comercial deforma las mazorcas y reduce el rendimiento del cultivo [@Fernandez2019]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#colletotrichum-graminicola",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#colletotrichum-graminicola",
-    "title": "Patogenos",
-    "section": "Colletotrichum graminicola",
-    "text": "Colletotrichum graminicola\nEnfermedades: Antracnosis.\nImpacto: Causa lesiones negras en hojas y tallos, que pueden llevar al debilitamiento y la muerte de las plantas jóvenes [@Perez2022]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#puccinia-sorghi",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#puccinia-sorghi",
-    "title": "Patogenos",
-    "section": "Puccinia sorghi",
-    "text": "Puccinia sorghi\nEnfermedades: Roya común del maíz.\nImpacto: Produce pústulas de color marrón en las hojas, afectando la fotosíntesis y reduciendo el rendimiento, especialmente en climas húmedos [@Sanchez2018]."
-  },
-  {
-    "objectID": "posts/post-with-code/Patogenos/UntitledQMD.html#maize-dwarf-mosaic-virus-mdmv",
-    "href": "posts/post-with-code/Patogenos/UntitledQMD.html#maize-dwarf-mosaic-virus-mdmv",
-    "title": "Patogenos",
-    "section": "Maize Dwarf Mosaic Virus (MDMV)",
-    "text": "Maize Dwarf Mosaic Virus (MDMV)\nEnfermedades: Virus del mosaico enano del maíz.\nImpacto: Causa un moteado clorótico en las hojas, retraso en el crecimiento y enanismo, lo que puede reducir significativamente la producción [@Ramirez2020]."
   }
 ]
